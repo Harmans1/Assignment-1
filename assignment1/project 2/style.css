@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Kanit:wght@300&family=Poppins&family=Varela+Round&display=swap');
+
+section h1 {
+    font-size: 40px;
+}
+
+
+.card {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: white;
+    padding: 90px 150px;
+    border-radius: 15px;
+    width: 900px;
+    margin: 62px auto;
+    background-color: blueviolet;
+}

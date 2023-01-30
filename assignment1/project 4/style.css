@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Kanit:wght@300&family=Poppins:wght@400;500&family=Varela+Round&display=swap');
+
+.img {
+    width: 450px;
+}
+
+.container {
+    padding: 20px;
+}
+
+.card {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(238, 246, 248);
+    margin: 20px auto;
+    width: 600px;
+    border-radius: 20px;
+    
+}
+
+.first {
+    color: rgb(131, 130, 130);
+
+    font-size: 30px;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: -30px;
+}
+
+.mid {
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -30px;
+}
+
+.last {
+    border: 3px dashed rgb(82, 98, 241);
+    background-color: rgb(224, 224, 233);
+    width: 120px;
+    font-size: 30px;
+    border-radius: 8px;
+    padding: 8px 29px;
+    margin-top: 30px;
+}
